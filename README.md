@@ -1,2 +1,10 @@
-# SmartRemarksAnalyzer
-An information system for automated extraction, classification, and clustering of customer remarks from different sources. Built with Python, NLP, and Machine Learning to identify recurring feedback and reduce manual analysis. Features an interactive Streamlit dashboard.
+```markdown
+## Постановка задачи (Вариант)
+**Тема:** Разработка информационной системы для выявления повторяющихся замечаний заказчиков инжиниринговой компании на основе методов NLP (Natural Language Processing).
+
+**Проблема:** Инженерные компании получают тысячи замечаний от заказчиков. Из-за ручного анализа менеджеры не успевают находить корневые причины, что приводит к повторению одних и тех же ошибок из проекта в проект и росту трудозатрат.
+
+**Цель:** Создать систему, которая автоматически собирает, классифицирует и кластеризует замечания, выявляя дубли по смыслу, и предоставляет руководителям аналитический дашборд для снижения количества повторных замечаний.
+
+## Структура репозитория
+- `Lab Work №1` — Лабораторная работа №1 (Требования к системе)
